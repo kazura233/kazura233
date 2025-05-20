@@ -1,5 +1,7 @@
 ### Hi, this is kazura233's GitHub profile page.
 
+<img src="https://count.getloli.com/@kazura233" alt="kazura233" />
+
 #### Platform&Tools
 <p>
 <img src="https://img.shields.io/badge/MacBook%20Pro-lightgrey?logo=apple&logoColor=white" alt="MacBook Pro">
