@@ -9,6 +9,7 @@
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/IDE-Claude%20Code-000000?logo=anthropic&logoColor=white" alt="Claude Code">
 <img src="https://img.shields.io/badge/IDE-Cursor-1E1E1E?logo=cursor&logoColor=white" alt="Cursor">
 <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?logo=visualstudiocode&logoColor=white" alt="VSCode">
 <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
