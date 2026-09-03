@@ -10,10 +10,12 @@
 
 <p>
 <img src="https://img.shields.io/badge/IDE-Claude%20Code-000000?logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/IDE-Codex-000000?logo=openai&logoColor=white" alt="Codex">
 <img src="https://img.shields.io/badge/IDE-Cursor-1E1E1E?logo=cursor&logoColor=white" alt="Cursor">
 <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?logo=visualstudiocode&logoColor=white" alt="VSCode">
 <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/IDE-WebStorm-2496ED?logo=webstorm&logoColor=white" alt="WebStorm">
+<img src="https://img.shields.io/badge/IDE-PyCharm-21D789?logo=pycharm&logoColor=white" alt="PyCharm">
 <img src="https://img.shields.io/badge/IDE-GoLand-00ADD8?logo=goland&logoColor=white" alt="GoLand">
 <img src="https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio">
 <img src="https://img.shields.io/badge/IDE-Xcode-147EFB?logo=xcode&logoColor=white" alt="Xcode">
@@ -25,6 +27,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
